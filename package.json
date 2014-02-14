@@ -1,0 +1,14 @@
+{
+    "name": "maso_duino_example",
+    "version": "1.0.0",
+    "description": "this is examples for using duino module.",
+    "main": "button_led.js",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+	"duino": "git+https://github.com/ecto/duino.git"
+    },		
+    "author": "jinsub ahn",
+    "license": "ISC"
+}
